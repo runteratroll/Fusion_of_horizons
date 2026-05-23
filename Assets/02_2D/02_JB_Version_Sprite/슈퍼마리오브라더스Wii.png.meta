@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 230de7689df839a4f823595e48e747f4
+guid: a5b1298124459aa4ba3d3a0efb31f5e7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7763172525595123286
-    second: Stage_Blind_0
+      213: 1313713740908849325
+    second: "\uC288\uD37C\uB9C8\uB9AC\uC624\uBE0C\uB77C\uB354\uC2A4Wii_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Stage_Blind_0
+      name: "\uC288\uD37C\uB9C8\uB9AC\uC624\uBE0C\uB77C\uB354\uC2A4Wii_0"
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 0
-        width: 62
-        height: 64
+        width: 600
+        height: 839
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa1a4d118bba34490800000000000000
-      internalID: -7763172525595123286
+      spriteID: da8eb6fdfaf3b3210800000000000000
+      internalID: 1313713740908849325
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Stage_Blind_0: -7763172525595123286
+      "\uC288\uD37C\uB9C8\uB9AC\uC624\uBE0C\uB77C\uB354\uC2A4Wii_0": 1313713740908849325
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
