@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: af67713c76edf1c4d8625c5bf6ddfc16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2082960109104945466
+    second: Stage_StoneWall_Fall_0
+  - first:
+      213: -298985694632404276
+    second: Stage_StoneWall_Fall_1
+  - first:
+      213: 8360079896841843670
+    second: Stage_StoneWall_Fall_2
+  - first:
+      213: -3821794699529731268
+    second: Stage_StoneWall_Fall_3
+  - first:
+      213: 713679340446557472
+    second: Stage_StoneWall_Fall_4
+  - first:
+      213: 2476712204537707139
+    second: Stage_StoneWall_Fall_5
+  - first:
+      213: -3985946643546932041
+    second: Stage_StoneWall_Fall_6
+  - first:
+      213: -7666443039886513119
+    second: Stage_StoneWall_Fall_7
+  - first:
+      213: -2828732194998460064
+    second: Stage_StoneWall_Fall_8
+  - first:
+      213: 3619875257262895893
+    second: Stage_StoneWall_Fall_9
+  - first:
+      213: 4936770782221447986
+    second: Stage_StoneWall_Fall_10
+  - first:
+      213: 365651482926926450
+    second: Stage_StoneWall_Fall_11
+  - first:
+      213: -948509637136047108
+    second: Stage_StoneWall_Fall_12
+  - first:
+      213: 3967369311613850497
+    second: Stage_StoneWall_Fall_13
+  - first:
+      213: 8138829719274068066
+    second: Stage_StoneWall_Fall_14
+  - first:
+      213: 1235736841748617665
+    second: Stage_StoneWall_Fall_15
+  - first:
+      213: -3378093894276756080
+    second: Stage_StoneWall_Fall_16
+  - first:
+      213: 8918053024104284855
+    second: Stage_StoneWall_Fall_17
+  - first:
+      213: -250797666332407641
+    second: Stage_StoneWall_Fall_18
+  - first:
+      213: -7067841319798523905
+    second: Stage_StoneWall_Fall_19
+  - first:
+      213: -2643102607045780645
+    second: Stage_StoneWall_Fall_20
+  - first:
+      213: -7058432560136332794
+    second: Stage_StoneWall_Fall_21
+  - first:
+      213: -8327058362072900818
+    second: Stage_StoneWall_Fall_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6ad7711d6d713e0800000000000000
+      internalID: -2082960109104945466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca1386481ac9dbf0800000000000000
+      internalID: -298985694632404276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d374216f58f40470800000000000000
+      internalID: 8360079896841843670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c334f0238f146fac0800000000000000
+      internalID: -3821794699529731268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0252ad2349f77e900800000000000000
+      internalID: 713679340446557472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a385ab0ac0f5220800000000000000
+      internalID: 2476712204537707139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc79b965a21fa8c0800000000000000
+      internalID: -3985946643546932041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c6ccc7ca25b9590800000000000000
+      internalID: -7666443039886513119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061e7605e035eb8d0800000000000000
+      internalID: -2828732194998460064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51371681e516c3230800000000000000
+      internalID: 3619875257262895893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23336dbcedee28440800000000000000
+      internalID: 4936770782221447986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 31
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a447f161e031500800000000000000
+      internalID: 365651482926926450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3a87ca28736d2f0800000000000000
+      internalID: -948509637136047108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183978f6e5dee0730800000000000000
+      internalID: 3967369311613850497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26819b0228ee2f070800000000000000
+      internalID: 8138829719274068066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c91a404c18362110800000000000000
+      internalID: 1235736841748617665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dc7b540899e11d0800000000000000
+      internalID: -3378093894276756080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b285ddb9f943cb70800000000000000
+      internalID: 8918053024104284855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a882cbe9dcf48cf0800000000000000
+      internalID: -250797666332407641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7b49444cbf9ed90800000000000000
+      internalID: -7067841319798523905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b9022ce20d15bd0800000000000000
+      internalID: -2643102607045780645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_21
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ad506dbf86b0e90800000000000000
+      internalID: -7058432560136332794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_StoneWall_Fall_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bd2b0d988507c80800000000000000
+      internalID: -8327058362072900818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stage_StoneWall_Fall_0: -2082960109104945466
+      Stage_StoneWall_Fall_1: -298985694632404276
+      Stage_StoneWall_Fall_10: 4936770782221447986
+      Stage_StoneWall_Fall_11: 365651482926926450
+      Stage_StoneWall_Fall_12: -948509637136047108
+      Stage_StoneWall_Fall_13: 3967369311613850497
+      Stage_StoneWall_Fall_14: 8138829719274068066
+      Stage_StoneWall_Fall_15: 1235736841748617665
+      Stage_StoneWall_Fall_16: -3378093894276756080
+      Stage_StoneWall_Fall_17: 8918053024104284855
+      Stage_StoneWall_Fall_18: -250797666332407641
+      Stage_StoneWall_Fall_19: -7067841319798523905
+      Stage_StoneWall_Fall_2: 8360079896841843670
+      Stage_StoneWall_Fall_20: -2643102607045780645
+      Stage_StoneWall_Fall_21: -7058432560136332794
+      Stage_StoneWall_Fall_22: -8327058362072900818
+      Stage_StoneWall_Fall_3: -3821794699529731268
+      Stage_StoneWall_Fall_4: 713679340446557472
+      Stage_StoneWall_Fall_5: 2476712204537707139
+      Stage_StoneWall_Fall_6: -3985946643546932041
+      Stage_StoneWall_Fall_7: -7666443039886513119
+      Stage_StoneWall_Fall_8: -2828732194998460064
+      Stage_StoneWall_Fall_9: 3619875257262895893
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
