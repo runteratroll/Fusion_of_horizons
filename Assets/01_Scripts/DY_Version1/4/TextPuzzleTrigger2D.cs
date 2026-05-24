@@ -11,4 +11,12 @@ public class TextPuzzleTrigger2D : MonoBehaviour
             puzzleManager.OpenCanvas();
         }
     }
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            puzzleManager.CloseCanvas();
+        }
+    }
 }
