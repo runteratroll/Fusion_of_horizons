@@ -1,55 +1,46 @@
 fileFormatVersion: 2
-guid: 343b01b5871b6af499e5e15821b3d968
+guid: 9e73d9ea44d3a884b9306f005c5afe07
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5837332443917351927
-    second: EndingCredit_ThankU_0
+      213: -2776702475301391823
+    second: EndingCredit_Design_0
   - first:
-      213: 7506833324126547583
-    second: EndingCredit_ThankU_1
+      213: -4235127896285767411
+    second: EndingCredit_Design_1
   - first:
-      213: 1503429413918186617
-    second: EndingCredit_ThankU_2
+      213: 1264731890274038534
+    second: EndingCredit_Design_2
   - first:
-      213: 713125115230302616
-    second: EndingCredit_ThankU_3
+      213: -4386104453386671953
+    second: EndingCredit_Design_3
   - first:
-      213: 3125751610875305655
-    second: EndingCredit_ThankU_4
+      213: 5333269459212116826
+    second: EndingCredit_Design_4
   - first:
-      213: 8400409149800090512
-    second: EndingCredit_ThankU_5
+      213: 3643658519398145159
+    second: EndingCredit_Design_5
   - first:
-      213: -3020430698792347738
-    second: EndingCredit_ThankU_6
+      213: 3371055298337436823
+    second: EndingCredit_Design_6
   - first:
-      213: 5569844944793787774
-    second: EndingCredit_ThankU_7
+      213: -3645395407095887822
+    second: EndingCredit_Design_7
   - first:
-      213: -5131274675024908616
-    second: EndingCredit_ThankU_8
+      213: 7987645295265875244
+    second: EndingCredit_Design_8
   - first:
-      213: 4312291906413776784
-    second: EndingCredit_ThankU_9
+      213: -6803381725563463401
+    second: EndingCredit_Design_9
   - first:
-      213: -4333452512633590857
-    second: EndingCredit_ThankU_10
+      213: -193192643747957707
+    second: EndingCredit_Design_10
   - first:
-      213: -1948979567936561140
-    second: EndingCredit_ThankU_11
+      213: -9210938180539040660
+    second: EndingCredit_Design_11
   - first:
-      213: 7922421572105797461
-    second: EndingCredit_ThankU_12
-  - first:
-      213: -569437653381737524
-    second: EndingCredit_ThankU_13
-  - first:
-      213: -6431257426996271556
-    second: EndingCredit_ThankU_14
-  - first:
-      213: 7784096568478542094
-    second: EndingCredit_ThankU_15
+      213: 2051223930069355602
+    second: EndingCredit_Design_12
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -145,276 +136,56 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: EndingCredit_ThankU_0
+      name: EndingCredit_Design_0
       rect:
         serializedVersion: 2
-        x: 24
-        y: 172
-        width: 39
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7fb7e832eee520150800000000000000
-      internalID: 5837332443917351927
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EndingCredit_ThankU_1
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 176
-        width: 32
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f7ea0a8a221ad2860800000000000000
-      internalID: 7506833324126547583
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EndingCredit_ThankU_2
-      rect:
-        serializedVersion: 2
-        x: 94
-        y: 171
-        width: 34
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97c977126114dd410800000000000000
-      internalID: 1503429413918186617
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EndingCredit_ThankU_3
-      rect:
-        serializedVersion: 2
-        x: 122
-        y: 174
-        width: 42
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 89136b5938785e900800000000000000
-      internalID: 713125115230302616
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EndingCredit_ThankU_4
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 178
-        width: 37
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7bed3567786e06b20800000000000000
-      internalID: 3125751610875305655
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EndingCredit_ThankU_5
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 93
-        width: 45
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 09b86cd4d9f349470800000000000000
-      internalID: 8400409149800090512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EndingCredit_ThankU_6
-      rect:
-        serializedVersion: 2
-        x: 92
-        y: 99
-        width: 45
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a71cc948464516d0800000000000000
-      internalID: -3020430698792347738
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EndingCredit_ThankU_7
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 95
-        width: 43
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e7d507c87701c4d40800000000000000
-      internalID: 5569844944793787774
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EndingCredit_ThankU_8
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 51
-        width: 29
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8beae26aedc0ac8b0800000000000000
-      internalID: -5131274675024908616
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EndingCredit_ThankU_9
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 53
-        width: 51
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 09fc59134a658db30800000000000000
-      internalID: 4312291906413776784
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EndingCredit_ThankU_10
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 52
-        width: 34
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7bb637d36eb7cd3c0800000000000000
-      internalID: -4333452512633590857
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EndingCredit_ThankU_11
-      rect:
-        serializedVersion: 2
-        x: 132
-        y: 38
-        width: 53
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c00a5aab865d3f4e0800000000000000
-      internalID: -1948979567936561140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EndingCredit_ThankU_12
-      rect:
-        serializedVersion: 2
-        x: 183
-        y: 86
+        x: 53
+        y: 98
         width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13276b07fcb2779d0800000000000000
+      internalID: -2776702475301391823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCredit_Design_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 99
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d091a83fd9dc935c0800000000000000
+      internalID: -4235127896285767411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCredit_Design_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 113
+        width: 20
         height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -424,20 +195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 55ff14ee17812fd60800000000000000
-      internalID: 7922421572105797461
+      spriteID: 60374ef04fa3d8110800000000000000
+      internalID: 1264731890274038534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EndingCredit_ThankU_13
+      name: EndingCredit_Design_3
       rect:
         serializedVersion: 2
-        x: 197
-        y: 51
-        width: 28
-        height: 36
+        x: 98
+        y: 124
+        width: 17
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -446,20 +217,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cc31374a873f818f0800000000000000
-      internalID: -569437653381737524
+      spriteID: fa8e02cfc3d6123c0800000000000000
+      internalID: -4386104453386671953
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EndingCredit_ThankU_14
+      name: EndingCredit_Design_4
       rect:
         serializedVersion: 2
-        x: 213
-        y: 21
-        width: 37
-        height: 67
+        x: 102
+        y: 64
+        width: 48
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -468,20 +239,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c366bc4c1759fb6a0800000000000000
-      internalID: -6431257426996271556
+      spriteID: a5327c7f054930a40800000000000000
+      internalID: 5333269459212116826
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EndingCredit_ThankU_15
+      name: EndingCredit_Design_5
       rect:
         serializedVersion: 2
-        x: 185
-        y: 53
-        width: 14
-        height: 31
+        x: 130
+        y: 92
+        width: 10
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -490,8 +261,162 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e09208d469aa60c60800000000000000
-      internalID: 7784096568478542094
+      spriteID: 78c5d835e10e09230800000000000000
+      internalID: 3643658519398145159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCredit_Design_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 25
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794f997eee468ce20800000000000000
+      internalID: 3371055298337436823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCredit_Design_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 14
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238853ef034f86dc0800000000000000
+      internalID: -3645395407095887822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCredit_Design_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 20
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2584206311d9de60800000000000000
+      internalID: 7987645295265875244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCredit_Design_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 17
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719d760dd588591a0800000000000000
+      internalID: -6803381725563463401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCredit_Design_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 13
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5343f286054a15df0800000000000000
+      internalID: -193192643747957707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCredit_Design_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 20
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c33e4c68c2c2080800000000000000
+      internalID: -9210938180539040660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingCredit_Design_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 18
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c809aeb49677c10800000000000000
+      internalID: 2051223930069355602
       vertices: []
       indices: 
       edges: []
@@ -510,22 +435,19 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      EndingCredit_ThankU_0: 5837332443917351927
-      EndingCredit_ThankU_1: 7506833324126547583
-      EndingCredit_ThankU_10: -4333452512633590857
-      EndingCredit_ThankU_11: -1948979567936561140
-      EndingCredit_ThankU_12: 7922421572105797461
-      EndingCredit_ThankU_13: -569437653381737524
-      EndingCredit_ThankU_14: -6431257426996271556
-      EndingCredit_ThankU_15: 7784096568478542094
-      EndingCredit_ThankU_2: 1503429413918186617
-      EndingCredit_ThankU_3: 713125115230302616
-      EndingCredit_ThankU_4: 3125751610875305655
-      EndingCredit_ThankU_5: 8400409149800090512
-      EndingCredit_ThankU_6: -3020430698792347738
-      EndingCredit_ThankU_7: 5569844944793787774
-      EndingCredit_ThankU_8: -5131274675024908616
-      EndingCredit_ThankU_9: 4312291906413776784
+      EndingCredit_Design_0: -2776702475301391823
+      EndingCredit_Design_1: -4235127896285767411
+      EndingCredit_Design_10: -193192643747957707
+      EndingCredit_Design_11: -9210938180539040660
+      EndingCredit_Design_12: 2051223930069355602
+      EndingCredit_Design_2: 1264731890274038534
+      EndingCredit_Design_3: -4386104453386671953
+      EndingCredit_Design_4: 5333269459212116826
+      EndingCredit_Design_5: 3643658519398145159
+      EndingCredit_Design_6: 3371055298337436823
+      EndingCredit_Design_7: -3645395407095887822
+      EndingCredit_Design_8: 7987645295265875244
+      EndingCredit_Design_9: -6803381725563463401
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

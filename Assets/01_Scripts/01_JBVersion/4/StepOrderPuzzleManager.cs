@@ -10,6 +10,9 @@ public class StepOrderPuzzleManager : MonoBehaviour
     [Header("공용 번호 이미지 프리팹")]
     public GameObject stepMarkPrefab;
 
+    [Header("정답시 나타날 오브젝트")]
+    public GameObject[] clearObject;
+
     private int currentStep = 0;
     private bool isCleared = false;
 
@@ -62,6 +65,13 @@ public class StepOrderPuzzleManager : MonoBehaviour
         {
             isCleared = true;
 
+            foreach(GameObject objedt in clearObject)
+            {
+                if(objedt != null)
+                {
+                    objedt.SetActive(true);
+                }
+            }
             Debug.Log("맞음");
         }
     }
