@@ -3010,7 +3010,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'the X th = '
+  m_text: 10 =
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9be1f6936640381489727ad3b0ee18a2, type: 2}
   m_sharedMaterial: {fileID: 2448452074968690143, guid: 9be1f6936640381489727ad3b0ee18a2, type: 2}
@@ -3037,7 +3037,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30.1
+  m_fontSize: 32.05
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -3150,7 +3150,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.67, y: 47.57}
+  m_AnchoredPosition: {x: 1.06, y: 47.57}
   m_SizeDelta: {x: 14.3081, y: 3.577}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &140445028
@@ -5403,7 +5403,7 @@ Transform:
   m_GameObject: {fileID: 264167802}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.69, y: 47.58, z: 0}
+  m_LocalPosition: {x: 1.53, y: 47.58, z: 0}
   m_LocalScale: {x: 1.776067, y: 1.776067, z: 1.776067}
   m_ConstrainProportionsScale: 0
   m_Children: []

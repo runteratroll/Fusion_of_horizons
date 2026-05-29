@@ -14,7 +14,7 @@ public class MoneyManager : MonoBehaviour
     private string filePath;
 
     // 213번째 줄 = 배열 인덱스 212
-    private const int targetLineIndex = 212;
+    private const int targetLineIndex = 34;
 
     private void Start()
     {
