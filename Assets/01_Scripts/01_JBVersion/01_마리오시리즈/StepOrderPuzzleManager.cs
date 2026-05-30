@@ -1,6 +1,5 @@
 using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
 
 public class StepOrderPuzzleManager : MonoBehaviour
 {
@@ -13,11 +12,15 @@ public class StepOrderPuzzleManager : MonoBehaviour
     [Header("정답시 나타날 오브젝트")]
     public GameObject[] clearObject;
 
+    [Header("순서 숫자 이미지")]
+    public Sprite[] numberSprites;
+
     private int currentStep = 0;
     private bool isCleared = false;
 
     private List<GameObject> spawnedMarks = new List<GameObject>();
     private List<StepOrderObject> steppedObjects = new List<StepOrderObject>();
+
 
     public void StepOnObject(StepOrderObject obj)
     {
@@ -41,12 +44,13 @@ public class StepOrderPuzzleManager : MonoBehaviour
 
         spawnedMarks.Add(mark);
 
-        // 번호 표시
-        TextMeshPro text = mark.GetComponentInChildren<TextMeshPro>();
+        
+        // 번호 이미지 표시
+        SpriteRenderer sr = mark.GetComponentInChildren<SpriteRenderer>();
 
-        if (text != null)
+        if (sr != null && currentStep - 1 < numberSprites.Length)
         {
-            text.text = currentStep.ToString();
+            sr.sprite = numberSprites[currentStep - 1];
         }
 
         // 정답 검사
