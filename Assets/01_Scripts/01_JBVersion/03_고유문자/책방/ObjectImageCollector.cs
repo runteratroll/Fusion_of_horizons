@@ -15,7 +15,7 @@ public class ObjectImageCollector : MonoBehaviour
 
     private void Update()
     {
-        if (currentObject != null && Input.GetKeyDown(KeyCode.P))
+        if (currentObject != null && Input.GetKeyDown(KeyCode.L))
         {
             UnlockObject(currentObject);
         }

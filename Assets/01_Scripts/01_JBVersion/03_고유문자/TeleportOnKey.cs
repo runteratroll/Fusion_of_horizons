@@ -12,7 +12,7 @@ public class TeleportOnKey : MonoBehaviour
             return;
 
         if (Input.GetKey(KeyCode.Alpha4) &&
-    Input.GetKeyDown(KeyCode.L))
+    Input.GetKeyDown(KeyCode.G))
         {
             playerInTrigger.position = targetPosition.position;
         }

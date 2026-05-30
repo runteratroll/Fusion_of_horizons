@@ -13,7 +13,7 @@ public class PlayerPickup : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.P))
+        if (Input.GetKeyDown(KeyCode.L))
         {
             if (heldObject == null)
             {

@@ -11,6 +11,11 @@ public class CompassNeedle : MonoBehaviour
     [Header("Offset")]
     [SerializeField] private float angleOffset = 0f;
 
+    public void SetNorthTarget(RectTransform newTarget)
+    {
+        northTarget = newTarget;
+    }
+
     private void Update()
     {
         Vector2 direction =
