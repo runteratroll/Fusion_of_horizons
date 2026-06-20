@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
+using TMPro;
 using UnityEngine;
 using UnityEngine.Networking;
 
@@ -11,6 +12,8 @@ public class Area2 : Area
     public AudioSource MainAudioSource;
 
     public List<AudioClip> AudioClips = new();
+
+    public TextMeshPro Text;
 
     private void Start()
     {
@@ -55,6 +58,31 @@ public class Area2 : Area
         foreach (string filePath in wavFiles)
         {
             yield return StartCoroutine(LoadWavFile(filePath));
+        }
+
+        SetText(wavFiles.Length);
+    }
+
+    private void SetText(int fileCount)
+    {
+        if (fileCount >= 4)
+        {
+            Text.SetText("너무 시끄러...\r\n내가 좋아하는 곡 하나만 남겨줘");
+        }
+        else if (fileCount >= 2)
+        {
+            Text.SetText("이게 아냐...\n다른거!");
+        }
+        else if (fileCount == 1)
+        {
+            if (IsAnswer())
+            {
+                Text.SetText("그래.. 이거야..");
+            }
+            else
+            {
+                Text.SetText("이게 아냐...\n다른거!");
+            }
         }
     }
 
@@ -138,9 +166,14 @@ public class Area2 : Area
 
     private void CheckAudio()
     {
-        if(loadedSources.Count == 1 && loadedSources[0].name == "Audio_마음이여 원시로 돌아가라")
+        if (IsAnswer())
         {
             Goal.gameObject.SetActive(true);
         }
+    }
+
+    private bool IsAnswer()
+    {
+        return loadedSources.Count == 1 && loadedSources[0].name == "Audio_마음이여 원시로 돌아가라";
     }
 }
