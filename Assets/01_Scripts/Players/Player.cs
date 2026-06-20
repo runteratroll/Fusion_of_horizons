@@ -1,9 +1,12 @@
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Player : MonoBehaviour
 {
     [SerializeField] private float moveDistance = 1f;
     [SerializeField] private LayerMask wallLayer;
+
+    public IClampBoundsProvider BoundsProvider;
 
     public bool IsVelocityMove = false;
 
@@ -63,6 +66,14 @@ public class Player : MonoBehaviour
         Collider2D hit = Physics2D.OverlapCircle(targetPos, 0.2f, wallLayer);
 
         if (hit != null) return;
+
+        if(BoundsProvider != null)
+        {
+            Bounds bounds = BoundsProvider.GetBounds();
+
+            targetPos.x = Mathf.Clamp(targetPos.x, bounds.min.x, bounds.max.x);
+            targetPos.y = Mathf.Clamp(targetPos.y, bounds.min.y, bounds.max.y);
+        }
 
         transform.position = targetPos;
     }
